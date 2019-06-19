@@ -26,13 +26,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Toolkito\\Larasap\\": "src/"
+            "Rabol\\Larasap\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Toolkito\\Larasap\\LarasapServiceProvider"
+                "Rabol\\Larasap\\LarasapServiceProvider"
             ]
         }
     },
