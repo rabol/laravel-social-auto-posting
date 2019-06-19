@@ -1,6 +1,6 @@
 <?php
 
-namespace Toolkito\Larasap;
+namespace Rabol\Larasap;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -11,12 +11,12 @@
  * Version:     1.0
  */
 
-namespace Toolkito\Larasap;
+namespace Rabol\Larasap;
 
 use Illuminate\Support\Facades\Config;
-use Toolkito\Larasap\Telegram\Api AS TelegramApi;
-use Toolkito\Larasap\Twitter\Api AS TwitterApi;
-use Toolkito\Larasap\Facebook\Api AS FacebookApi;
+use Rabol\Larasap\Telegram\Api AS TelegramApi;
+use Rabol\Larasap\Twitter\Api AS TwitterApi;
+use Rabol\Larasap\Facebook\Api AS FacebookApi;
 
 class SendTo
 {
